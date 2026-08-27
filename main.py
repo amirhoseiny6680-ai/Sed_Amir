@@ -11,7 +11,7 @@ import time
 # ۱. تنظیمات اصلی (حتماً این دو خط را اصلاح کنید)
 # =========================================================
 TOKEN = "1582396815:AAH7XM585x140aE2iOMVXdHWvaXIGGCXbd8"
-CHAT_ID = "۴۱۳۸۴۷۴۲۲"
+CHAT_ID = "413847422"
 
 # تنظیمات لاگ برای عیب‌یابی در رندر
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
