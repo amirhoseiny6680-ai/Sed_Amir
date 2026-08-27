@@ -112,7 +112,8 @@ def run_web_server():
 
 if __name__ == "__main__":
     logger.info("Starting the Bot System...")
-    
+       send_telegram_msg("🚀 ربات با موفقیت آنلاین شد و آماده گزارش‌دهی است!")
+
     # شروع زمان‌بندی در یک Thread جداگانه
     scheduler = setup_scheduler()
     
