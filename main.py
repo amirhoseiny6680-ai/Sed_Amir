@@ -4,7 +4,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
 
 # اطلاعات خودتان را اینجا بگذارید
-TOKEN = "8934492635:AAF9ipJHRsukI6hOUrbCjSrIMyXevtNdMY"
+TOKEN = "1582396815:AAH7XM585x140aE2iOMVXdHWvaXIGGCXdb8"
 CHAT_ID = "413847422"
 
 def send_test_message():
